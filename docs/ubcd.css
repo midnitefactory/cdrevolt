@@ -1,0 +1,35 @@
+body, div, th, td, form, p, li, ul, ol { font-family: Verdana,Arial,Tahoma,Helvetica,sans-serif; }
+.mirrorbox { margin: 0; border: 1px solid #444444; background: #dddddd; }
+.mirror { color: #333333; text-decoration: none; border-bottom: 1px none; }
+.mirror:hover { color: #333333; border-bottom: 1px solid #333333; }
+.menubox { margin: 0; border: 1px solid #660000; background: #ff9999; }
+.curmenu { color: #660000; text-decoration: none; border-bottom: 1px none; }
+.menu { color: #660000; text-decoration: none; border-bottom: 1px none; }
+.menu:hover { color: #cc0000; border-bottom: 1px solid #cc0000; }
+.sidebar { margin-left: 1em; border-left: 2px solid #174982; padding-left: 1em; }
+.bullets { margin-top: 1em; margin-left: 1em; padding-left: 0; }
+.linebreak { margin-top: 1em; padding-left: 0; }
+.shaded { background: #dddddd; }
+
+
+/*
+     FILE ARCHIVED ON 06:24:20 Feb 04, 2005 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:58:59 Mar 24, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  capture_cache.get: 2.969
+  captures_list: 0.626
+  exclusion.robots: 0.02
+  exclusion.robots.policy: 0.009
+  esindex: 0.009
+  cdx.remote: 97.761
+  LoadShardBlock: 179.316 (3)
+  PetaboxLoader3.datanode: 189.707 (4)
+  load_resource: 123.899
+  PetaboxLoader3.resolve: 72.105
+*/
